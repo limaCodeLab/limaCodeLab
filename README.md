@@ -43,6 +43,7 @@
 <p>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF?logo=jira&logoColor=white&style=plastic" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172BF4?logo=confluence&logoColor=white&style=plastic" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white&style=plastic" />
 </p>
 
 <hr>
