@@ -35,8 +35,8 @@
 <h4>Automated Testing</h4>
 <p>
   <img alt="Appium" src="https://img.shields.io/badge/Appium-purple?logo=Appian&logoColor=white&style=plastic" />
+  <img alt="Rest-assured" src="[https://img.shields.io/badge/Selenium-green?logo=selenium&logoColor=white&style=plastic](https://img.shields.io/badge/rest-assured-red?logo=rest-assured&logoColor=white&style=plastic)" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?logo=selenium&logoColor=white&style=plastic" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-%23E5E5E5?logo=cypress&logoColor=058a5e&style=plastic" />
 </p>
 
 <h4>Management Tools</h4>
