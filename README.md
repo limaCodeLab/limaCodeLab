@@ -51,6 +51,6 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/alaanlimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/alaanlimaa?igsh=cjdlbm83cjEyaHZy&utm_source=qr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/alaanlimaa/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
