@@ -16,8 +16,8 @@
 <h4>Development Technologies</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white&style=plastic" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-grey?logo=python&logoColor=yellow&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=yellow&style=plastic" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-whait?logo=python&logoColor=yellow&style=plastic" />
   <img alt="Html" src="https://img.shields.io/badge/HMTL5-orange?logo=html5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=plastic" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=plastic" />
