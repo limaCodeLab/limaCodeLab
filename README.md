@@ -7,6 +7,8 @@
   
   </br> 🚀 Dive into my repository where you'll discover a diverse collection of Java projects, software architectures, web development wonders, APIs, Cloud solutions, and automated testing scripts.
 
+  </br> "I believe that technology is our ally in the constant improvement of people's quality of life. I dedicate myself to knowledge to develop a better future for the next generations; for this reason, being part of the technological world is special to me."
+
 </p>
 
 <hr>
