@@ -18,18 +18,21 @@
 <h4>Development Technologies</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white&style=plastic" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=yellow&style=plastic" />
   <img alt="Python" src="https://img.shields.io/badge/Python-whait?logo=python&logoColor=yellow&style=plastic" />
   <img alt="Html" src="https://img.shields.io/badge/HMTL5-orange?logo=html5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=plastic" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=plastic" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=plastic" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-yellow?logo=hibernate&logoColor=black&style=plastic" />
   <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-purple?logo=bitrise&style=plastic" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-blue?logo=bitbucket&logoColor=white&style=plastic" />
   <img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&style=plastic" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-white?logo=swagger&logoColor=darkgreen&style=plastic" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white&style=plastic" />
   <img alt="InteliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=plastic" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&style=plastic" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit 5-red?logo=junit5&logoColor=green&style=plastic" />
   <img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=plastic" />
   <img alt="GPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white&style=plastic" />
   <img alt="GIT" src="https://img.shields.io/badge/Git-%23F05033?logo=git&logoColor=white&style=plastic" />
