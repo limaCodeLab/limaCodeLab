@@ -60,3 +60,8 @@
   <a href="https://www.instagram.com/alaanlimaa/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
+
+<p>Curriculum Pt-BR, click on the logo:
+  <a href="https://github.com/limaCodeLab/limaCodeLab/blob/main/alan-lima-cv-backend-java-ptbr.pdf" target="_blank"><img alt="curriculum" src="https://github.com/limaCodeLab/limaCodeLab/blob/main/cv-logo.png" width="50" height="50" /></a>
+</p>
+
