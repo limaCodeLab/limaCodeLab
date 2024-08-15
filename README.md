@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! 
+<p>ALOHA!!! Welcome to my page! 
 
   </br> 👋 Hi! I'm Alan, a Brazilian tech enthusiast with 3 years of experience in the field. Currently, I'm immersed in Java Backend Development with aspirations to become a Solutions Architect. When I'm not coding, you'll find me catching some waves – I'm equally passionate about technology and surfing!
   
