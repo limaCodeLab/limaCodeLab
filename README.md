@@ -3,7 +3,7 @@
 
 <p>ALOHA!!! Welcome to my page! 
 
-  </br> 👋 Hi! I'm Alan, a Brazilian tech enthusiast with 3 years of experience in the field. Currently, I'm immersed in Java Backend Development with aspirations to become a Solutions Architect. When I'm not coding, you'll find me catching some waves – I'm equally passionate about technology and surfing!
+  </br> 👋 Hi! I'm Alan, a Brazilian tech enthusiast with over 5 years of experience in the field. Currently, I'm immersed in Java Backend Development with aspirations to become a Solutions Architect. When I'm not coding, you'll find me catching some waves – I'm equally passionate about technology and surfing!
   
   </br> 🚀 Dive into my repository where you'll discover a diverse collection of Java projects, software architectures, web development wonders, APIs, Cloud solutions, and automated testing scripts.
 
